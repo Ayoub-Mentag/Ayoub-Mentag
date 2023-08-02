@@ -1,5 +1,3 @@
-[![amentag's 42 stats](https://badge.mediaplus.ma/darkblue/amentag)](https://github.com/oakoudad/badge42)
-
 # 👋 Hi there! I'm Ayoub Mentag
 
 I'm an aspiring coder, currently immersing myself in the fascinating world of software development! 🚀
@@ -7,6 +5,8 @@ I'm an aspiring coder, currently immersing myself in the fascinating world of so
 ## 🎓 About Me
 
 I take pride in being a student at 42 Network Khouribga Campus, where I am continually sharpening my coding skills and exploring the vast possibilities of tech.
+
+[![amentag's 42 stats](https://badge.mediaplus.ma/darkblue/amentag)](https://github.com/oakoudad/badge42)
 
 ## 💻 My Projects
 
