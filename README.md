@@ -26,6 +26,4 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 
 [![GitHub followers](https://img.shields.io/github/followers/Ayoub-Mentag)](https://github.com/Ayoub-Mentag)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-Mentag&exclude_repo=github-readme-stats,Ayoub-Mentag.github.io&show_icons=true&locale=en&theme=holi)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoub-Mentag&show_icons=true&theme=holi)](https://github.com/Ayoub-Mentag/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-Mentag&exclude_repo=github-readme-stats,Ayoub-Mentag.github.io&show_icons=true&locale=en&theme=holi) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoub-Mentag&show_icons=true&theme=holi)](https://github.com/Ayoub-Mentag/github-readme-stats)
