@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Ayoub Mentag
 
-![Profile Banner](path/to/banner.png)
-
 I'm an aspiring coder, currently immersing myself in the fascinating world of software development! 🚀
 
 ## 🎓 About Me
