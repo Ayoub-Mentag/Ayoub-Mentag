@@ -24,4 +24,4 @@ Every day, I strive to learn something new and progress as a developer. Follow a
 
 I'm always open to connecting with fellow developers, collaborating on projects, or engaging in coding discussions. Feel free to reach out – let's learn together! 😄
 
-[![GitHub followers](https://img.shields.io/github/followers/ayoubmentag?label=Follow&style=social)](https://github.com/ayoubmentag)
+[![GitHub followers](https://img.shields.io/github/followers/ayoubmentag?label=Follow&style=social)](https://github.com/Ayoub-Mentag)
