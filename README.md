@@ -23,3 +23,6 @@ Every day, I strive to learn something new and progress as a developer. Follow a
 I'm always open to connecting with fellow developers, collaborating on projects, or engaging in coding discussions. Feel free to reach out – let's learn together! 😄
 
 [![GitHub followers](https://img.shields.io/github/followers/Ayoub-Mentag)](https://github.com/Ayoub-Mentag)
+
+
+[![amentag's 42 stats](https://badge.mediaplus.ma/darkblue/amentag)](https://github.com/oakoudad/badge42)
