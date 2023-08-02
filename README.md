@@ -1,3 +1,5 @@
+[![amentag's 42 stats](https://badge.mediaplus.ma/darkblue/amentag)](https://github.com/oakoudad/badge42)
+
 # 👋 Hi there! I'm Ayoub Mentag
 
 I'm an aspiring coder, currently immersing myself in the fascinating world of software development! 🚀
@@ -24,5 +26,3 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 
 [![GitHub followers](https://img.shields.io/github/followers/Ayoub-Mentag)](https://github.com/Ayoub-Mentag)
 
-
-[![amentag's 42 stats](https://badge.mediaplus.ma/darkblue/amentag)](https://github.com/oakoudad/badge42)
